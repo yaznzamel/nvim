@@ -1,0 +1,9 @@
+  ~/.config/nvim                                                                                                                             Size        Type         Last Modified  
+    lua                                                                                                                                         -   directory   2025-03-15 05:08 am  
+   │  yaznzm                                                                                                                                    -   directory   2025-02-25 02:20 pm  
+   └  plugins.lua                                                                                                                           609 B         lua   2025-03-15 05:08 am  
+    plugin                                                                                                                                      -   directory   2025-02-24 04:16 pm  
+   * 1                                                                                                                                        25 B        file   2025-02-28 02:52 pm  
+    index.js                                                                                                                                 25 B          js   2025-02-28 02:52 pm  
+    init.lua                                                                                                                               1016 B         lua   2025-03-15 05:09 am  
+    lazy-lock.json                                                                                                                          765 B        json   2025-03-15 05:09 am  
